@@ -8,5 +8,5 @@ Thanks to Hidrogen for listening to my problems.
 
 Thanks to Lampadina for helping me using the colors.
 
-#WARNING
+# WARNING
 This project isn't finished yet, but im working on it currently as main project.
